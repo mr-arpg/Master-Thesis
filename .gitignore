@@ -1,0 +1,17 @@
+# PDF gerado (compilação do documento)
+main.pdf
+
+# Arquivos temporários do Typst
+*.log
+*.aux
+*.out
+*.toc
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários do Office
+~$*
+
