@@ -1,5 +1,16 @@
 // Don't add a title. It's already included in the template.
 
-#lorem(150)
+I have always found acknowledgments in Master's theses somewhat _cheesy_, after all, we're talking about a relatively humble document, a smaller body of work than a PhD. What could possibly justify such extensive thanks? And yet, I find myself in the embarrassing position of being unable to refuse them. 
 
-#lorem(30)
+This is an incredible opportunity to publicly thank and somehow repay all those who helped me along the way. However humble this work may be, it would not have been possible without the people who appeared throughout this journey, or who were always there and proved important as ever.
+
+The obvious place to start is with Professor Luís Lemos Alves. I could not have asked for a better supervisor. I see few professors willing to spend time reading a thesis word by word - well, this was the case here. There are few words he hasn't scrutinized, as I well know from the afternoons he spent by my side correcting and guiding me. He did everything to ensure I never felt lost, both throughout the year I worked in PSI.COM group and during the two and a half months of thesis writing. He always made sure I felt motivated and never hesitated to praise publicly the small progress I made throughout the year. At the same time, I felt I reached levels I didn't know were possible. I'm not lying when I say he brought out the best in me in terms of scientific output. Beyond that, I cannot fail to thank him for the patience he always showed in teaching me physics and for the lack of judgment I felt while he taught me. I entered with low expectations of pursuing a PhD, and now, after a year working with him, I am more certain than ever that I will continue to a doctorate. I am deeply grateful that he chose me for his group and that I had the opportunity to work with him.
+
+I am also very grateful to my other co-supervisor, Dr. Olivier Guaitella, for welcoming me in Paris and treating me so well, integrating me into his group in such a friendly and welcoming way. He was always ready to answer my rambling questions about experimental protocols and always willing to spend time looking at my not-so-pretty fits, trying to extract some meaning from them. I would also like to thank Maik - not only for the babysitting, but for all the time he spent helping me with any issue, analyzing the concentrations and fits I would send at ungodly hours of the night. It was a pleasure working with him, an absolutely generous and very funny person who can always get a laugh out of you.
+
+I must also thank Pedro, the little Swiss watch that keeps the group running, who was always willing to help me with an image, explain some code detail, always ready to assist me. A big thank you, Pedro. See you at your next concert.
+
+Finally, I must thank my friends - the troops Flippy, Lamy, and Zé - for making the writing of this document more bearable. To José, a.k.a. Joe, for showing me light at an important moment. To my girlfriend, Bi, for the patience (and even helping me run simulations, like one weekend when my PC died and I had to run them on hers), and for enduring this difficult year next to me. And to my family, my father, my sister, and my mother, for being that foundation, for coming home to a meal, for your understanding, for your support. Thank you for everything. Love you guys.
+
+#align(center)[#text(size: 9pt)[This work was supported by Fundação para a Ciência e a Tecnologia (FCT) under grant 2022.04128.PTDC]]
+

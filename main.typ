@@ -95,7 +95,7 @@
     include("Beginning/Keywords-en.typ"),
     include("Beginning/Abstract-pt.typ"),
     include("Beginning/Keywords-pt.typ"),
-    include("Beginning/Glossary.typ")
+    include("Beginning/Glossary.typ"),
   )
 
 )
@@ -118,9 +118,5 @@
 #show: set-figure-numbering.with(new-format: "A.1")
 
 // Add appendices here
-#include("Chapters/Appendix-A.typ")
-#include("Chapters/Appendix-B.typ")
-#include("Chapters/Appendix-C.typ")
+
 #include("Chapters/Appendix-D.typ")
-#include("Chapters/Appendix-E.typ")
-#include("Chapters/Appendix-F.typ")

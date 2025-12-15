@@ -1,5 +1,7 @@
 // Don't add a title. It's already included in the template.
 
-#lorem(90)
+This thesis addresses the fundamental challenges of modeling $N_2-H_2$ plasma chemistry for ammonia synthesis using plasmas, a sustainable alternative to the Haber-Bosch process. Conducted within the PSI.COM project in collaboration between Instituto Superior Técnico (Lisbon) and LPP-École Polytechnique (Paris), the work bridges experimental characterization and computational modeling of coupled electron kinetics, heavy-species chemistry, and surface reactions.
 
-#lorem(30)
+An experimental campaign at LPP characterized $N_2-H_2$ plasmas using optical emission spectroscopy, Fourier-transform infrared spectroscopy, and temperature diagnostics, revealing peak ammonia production around $70\%$ $H_2$ with counter-intuitive pressure dependencies. A comprehensive kinetic database was developed through systematic literature review, identifying order-of-magnitude discrepancies in rate coefficients. The chemical model integrates volume reactions and a mesoscopic surface model that describe the main plasma features in terms of discharge characteristic and concentrations of relevant species.
+
+Significant computational advancements were achieved through implementation of a variable energy grid in the LisbOn KInetics Boltzmann (LoKI-B) solver, reducing computational costs while maintaining accuracy. A graphical user interface for input was developed to democratize the use of LoKI-B within the scientific community, facilitating input parameter specification and enhancing tool accessibility. Exploratory work on machine learning methodologies was conducted to assess the potential for automated reduction of complex chemical schemes.

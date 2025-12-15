@@ -8,10 +8,10 @@
 #align(right,
   box(width: 75%,
     [
-      _#lorem(20)_
+      _"Enter through the narrow gate."_
       #linebreak()
       #linebreak()
-      \- Lorem I. Dolor
+      
     ]
   )
 )

@@ -1,5 +1,7 @@
 // Don't add a title. It's already included in the template.
 
-#lorem(90)
+Esta tese aborda os desafios fundamentais da modelização da química de plasmas $N_2-H_2$ para síntese de amoníaco com plasmas, uma alternativa sustentável ao processo Haber-Bosch. Realizada no âmbito do projeto PSI.COM em colaboração entre o Instituto Superior Técnico (Lisboa) e o LPP-École Polytechnique (Paris), o trabalho une caracterização experimental e modelização computacional da cinética eletrónica acoplada, química de espécies pesadas e reações de superfície.
 
-#lorem(30)
+Foi realizada uma campanha experimental no LPP caracterizando plasmas $N_2-H_2$ através de espectroscopia de emissão ótica, espectroscopia de infravermelho por transformada de Fourier e diagnósticos de temperatura, revelando produção máxima de amoníaco em torno de 70% $H_2$ com dependências de pressão contra-intuitivas. Foi desenvolvida uma base de dados cinética abrangente através de revisão sistemática da literatura, identificando discrepâncias de ordens de magnitude nos coeficientes de reação. O modelo químico integra reações no volume e um modelo mesoscópico de superfície que descrevem as principais características do plasma em termos de características da descarga e concentrações de espécies relevantes.
+
+Foram alcançados avanços computacionais significativos através da implementação de uma grelha de energia variável no código LisbOn KInetics Boltzmann (LoKI-B), reduzindo custos computacionais enquanto mantém a precisão. Uma interface gráfica para o _input_ foi desenvolvida para democratizar o uso do LoKI-B pela comunidade científica, facilitando a especificação de parâmetros de entrada e aumentando a acessibilidade da ferramenta. Foi realizado trabalho exploratório em metodologias de _machine learning_ para avaliar o potencial de redução automática de esquemas químicos complexos.
