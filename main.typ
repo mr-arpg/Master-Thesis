@@ -19,18 +19,18 @@
 
   author: "Armando Rafael Pires Gonçalves",
 
-  degree: "Engineering Physics Technology",
+  degree: "Engineering Physics",
 
-  supervisor: "Prof. Luís Lemos Alves",
+  supervisor: "Prof. Luís Paulo Da Mota Capitão Lemos Alves",
 
   co-supervisor: "Dr. Olivier Guaitella",    // *
 
-  chairperson: "Prof. Full Name of the Chairperson",
+  chairperson: "Prof. Jorge Miguel Ramos Domingues Ferreira Vieira",
 
   committee-members: (
-    "Prof. Full Name of First Committee Member",
-    "Dr. Full Name of Second Committee Member",         // *
-    "Eng. Full Name of Third Committee Member"          // *
+    "Prof. Vasco António Dinis Leitão Guerra",
+    "Dr. Nuno Rombert Pinhão",         // *
+    "Dr. Maik Budde"          // *
   ),
 
   date: "September 2025",
@@ -67,7 +67,7 @@
     string-before-degree: none,
 
     // Set to true to hide the committee, declaration, acknowledgments or abstracts if either is unneeded
-    hide-committee: true,
+    hide-committee: false,
     hide-declaration: false,
     hide-acknowledgments: false,
     hide-abstract-en: false,
@@ -117,6 +117,6 @@
 #counter(heading).update(0)
 #show: set-figure-numbering.with(new-format: "A.1")
 
-// Add appendices here
+// Add appendices heref
 
 #include("Chapters/Appendix-D.typ")

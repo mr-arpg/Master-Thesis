@@ -7,7 +7,7 @@
 #show: jacow.with(
   // Paper title
   title: [
-    The Plasma Way to Ammonia
+    The Plasma Way to Ammonia: Modelling and Understanding Plasma-Derived NH₃
   ],
   // Author list
   authors: (),
